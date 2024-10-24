@@ -1,4 +1,4 @@
-About Project
+About Project :
 Inspiro is an inspiration platform, similar to Pinterest, designed for users to create, share, and explore ideas across various categories such as fashion, food, home decor, travel, etc. Users can upload images with captions, save posts, leave reviews, ratings, etc.
 Features :
     User Authentication: Register and login functionalities.
@@ -12,3 +12,6 @@ Technologies Used
     Backend: PHP, Laravel
     Frontend: HTML, CSS, JavaScript, Bootstrap
     Database: MySQL
+Future Updates:
+    Frontend Improvement: Working on UI enhancements and responsiveness.
+    Additional Features: Profile management, enhanced search filters, etc.
