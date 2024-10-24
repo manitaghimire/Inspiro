@@ -10,5 +10,5 @@ Data is being correctly fetched and displayed on the frontend.
 Frontend improvisation is still in progress, and I will be adding regular updates to this projects.
 Technologies Used
     Backend: PHP, Laravel
-    Frontend: HTML, CSS, JavaScript
+    Frontend: HTML, CSS, JavaScript, Bootstrap
     Database: MySQL
